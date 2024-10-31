@@ -1,2 +1,3 @@
 # Python-Assingments
 Python Assingments (Python Fundamentals ,Data Structure , Control Statements in Python , Functions in Python )
+"Completed Python assignments covering core programming concepts, including Python Fundamentals (basics, data types, and operators), Data Structures (lists, dictionaries, tuples, and sets), Control Statements (conditional logic, loops, and iteration), and Functions (argument handling, modular code, and reusable functions). Developed a strong foundation in Python programming by working through exercises designed to enhance problem-solving and code structuring skills."
